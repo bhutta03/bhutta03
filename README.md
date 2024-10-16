@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1>Data Analyst (H1)</h1>
+<h1>Data Analyst</h1>
 
 
 
