@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data Analytics
+Data Analyst
 
 
 ## 🌐 Socials:
