@@ -1,5 +1,5 @@
-# 💫 About Me:
-"Transitioning from Blockchain to Data Analytics: A New Chapter in My Tech Journey"
+## 💫 About Me:
+##"Transitioning from Blockchain to Data Analytics: A New Chapter in My Tech Journey"
 
 
 ## 🌐 Socials:
